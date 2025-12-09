@@ -765,7 +765,7 @@ P = NP means does being able to quickly recognize correct answers means there's 
 
 Preserve the original order of elements with equal key
 
-### What do to after having designed a solution
+### What to do after having designed a solution
 
 Testing on nominal cases then edge cases
 
@@ -1934,7 +1934,7 @@ Encoding?
 
 ### 0/1 Knapsack brute force technique
 
-Recursive approach: solve f(c, i) with c is the remaining capacity and i is th current item index
+Recursive approach: solve f(c, i) with c is the remaining capacity and i is the current item index
 At each level, we branch with the item at index i (if enough capacity) and without it
 
 ```java
